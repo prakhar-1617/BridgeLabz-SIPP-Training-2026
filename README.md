@@ -38,3 +38,22 @@ collected.
 
 LC #4 FizzBuzz | LC #5 Reverse Integer | LC #6 Plus
 One | LC #7 Number of Steps to Reduce to Zero
+
+DAY 3
+Core
+Programming 3 Regular
+
+Arrays: 1D & 2D, traversal, min/max,
+linear search, frequency count,
+rotation
+
+A warehouse stores item quantities in an array. Find the max, min,
+total stock, and detect duplicates. Extend: rotate the stock array by
+k positions (simulate daily shift handover), and transpose a 2D shelf
+grid.
+
+LC #8 Contains Duplicate | LC #9 Majority Element
+| LC #10 Max Consecutive Ones | LC #11 Move
+Zeroes | LC #12 Rotate Array
+
+along with this done # scenario based questions and with all test cases
