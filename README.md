@@ -57,3 +57,6 @@ LC #8 Contains Duplicate | LC #9 Majority Element
 Zeroes | LC #12 Rotate Array
 
 along with this done # scenario based questions and with all test cases
+
+Day 3
+ pushed all recent codes and scenario baed questions along with the new assigned task of today
